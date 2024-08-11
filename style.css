@@ -149,4 +149,8 @@ p {
     background-size: contain;
     background-color: var(--light-pink);
   }
+
+  main {
+    padding: 4rem;
+  }
 }
